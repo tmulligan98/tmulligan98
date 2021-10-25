@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tom-mulligan)
 
-### Happy to see you having a look at my profile &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=tmulligan98.momtulligan)
+[visitors](https://visitor-badge.glitch.me/badge?page_id=tmulligan98.momtulligan)
 
 I am an MAI Computer Engineer currently working on a Mobile Tennis Analysis Application!
 
