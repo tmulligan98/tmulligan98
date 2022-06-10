@@ -1,15 +1,16 @@
-### Hey there! I'm Tom <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there! I'm Tom <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tom-mulligan)
 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=tmulligan98.momtulligan)
+I am a soon-to-be-graduated Computer Engineer from Trinity College Dublin!
 
-I am an MAI Computer Engineer currently working on a Mobile Tennis Analysis Application!
+**What have I done?**
+- Finished my Master's Dissertation on Mobile Tennis Analysis
+- Completed a year-long group project, focussed on building an evacuation management system for Dublin City.
 
 **What am I up to?**
-- Currently taking modules in Machine Learning, Advanced Software Engineering and Fuzzy Logic
-- Making plans for after college!
-- Working on my Master's Thesis :eyes::eyes:
+- Currently travelling through Europe 
+- Looking for jobs!
 
 
 ### Some stats! ###
